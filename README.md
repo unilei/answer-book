@@ -11,7 +11,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 4. 然后直接点 `Deploy` 接着等部署完成即可
 
 ## 网站demo
-https://image-watermark-tool.vercel.app/
+https://answer.aicompasspro.com
 
 ## Setup
 
